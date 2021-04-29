@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @development-jayva
 - 👀 I’m interested in C# ASP.NET, React.js, Material-UI
-- 🌱 I’m currently learning to use oauth2
-- 💞️ I’m looking to collaborate on oauth2
+- 🌱 I’m currently learning to use oauth2, lambda functions on aws
+- 💞️ I’m looking to collaborate on oauth2, lambda functions on aws
 - 📫 How to reach me development@jayva.co.uk
 
 <!---
